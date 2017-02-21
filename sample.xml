@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2017-01-25T08:36:02Z"/>
+
+  <way id="5673561">
+    <nd ref="42434946"/>
+    <nd ref="3857334400"/>
+    <nd ref="42430308"/>
+    <nd ref="3857343067"/>
+    <nd ref="42428253"/>
+    <nd ref="1329098617"/>
+    <nd ref="42439952"/>
+    <nd ref="42435645"/>
+    <nd ref="2709258965"/>
+    <nd ref="42444960"/>
+    <nd ref="42434428"/>
+    <nd ref="2779131561"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="West 35 Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="New York, NY"/>
+    <tag k="tiger:name_base" v="35th"/>
+    <tag k="tiger:name_base_1" v="35"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_direction_prefix_1" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:name_type_1" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="10001"/>
+    <tag k="tiger:zip_right" v="10001"/>
+  </way>
+  <way id="46481747">
+    <nd ref="42434429"/>
+    <nd ref="427842070"/>
+    <nd ref="42444964"/>
+    <nd ref="2351527464"/>
+    <nd ref="42435646"/>
+    <nd ref="3769557283"/>
+    <nd ref="42439955"/>
+    <nd ref="42428258"/>
+    <nd ref="42430311"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="West 36th Street"/>
+    <tag k="name_1" v="West 36 Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="New York, NY"/>
+    <tag k="tiger:name_base" v="36th"/>
+    <tag k="tiger:name_base_1" v="36"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_direction_prefix_1" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:name_type_1" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="10018"/>
+    <tag k="tiger:zip_right" v="10018"/>
+  </way>
+  <way id="127693383">
+    <nd ref="42435629"/>
+    <nd ref="42435632"/>
+    <nd ref="42434810"/>
+    <nd ref="42435633"/>
+    <nd ref="42427812"/>
+    <nd ref="4443775464"/>
+    <nd ref="4443775465"/>
+    <nd ref="42435642"/>
+    <nd ref="42435644"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway:left" v="track"/>
+    <tag k="hgv" v="local"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="8th Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="New York, NY"/>
+    <tag k="tiger:name_base" v="8th"/>
+    <tag k="tiger:name_base_1" v="8"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:name_type_1" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="wikidata" v="Q109951"/>
+    <tag k="wikipedia" v="en:Eighth Avenue (Manhattan)"/>
+  </way>
+  <way id="194926854">
+    <nd ref="42435644"/>
+    <nd ref="42435645"/>
+    <nd ref="42435646"/>
+    <nd ref="42435650"/>
+    <nd ref="42433620"/>
+    <nd ref="42435654"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway:left" v="track"/>
+    <tag k="hgv" v="local"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="8th Avenue"/>
+    <tag k="name_1" v="8 Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="New York, NY"/>
+    <tag k="tiger:name_base" v="8th"/>
+    <tag k="tiger:name_base_1" v="8"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:name_type_1" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="wikidata" v="Q109951"/>
+    <tag k="wikipedia" v="en:Eighth Avenue (Manhattan)"/>
+  </way>
+  <way id="195743208">
+    <nd ref="42437654"/>
+    <nd ref="3799564975"/>
+    <nd ref="42435644"/>
+    <tag k="access" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="6"/>
+    <tag k="name" v="West 34th Street"/>
+    <tag k="source:hgv" v="Rules of the City of New York Title 34 §4-13 http://24.97.137.100/nyc/rcny/Title34_4-13.asp"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="New York, NY"/>
+    <tag k="tiger:name_base" v="34th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="10001"/>
+    <tag k="tiger:zip_right" v="10001"/>
+  </way>
+  <way id="420509471">
+    <nd ref="42435644"/>
+    <nd ref="2649092010"/>
+    <nd ref="2295332121"/>
+    <nd ref="42437663"/>
+    <tag k="access" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="6"/>
+    <tag k="name" v="West 34th Street"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:hgv" v="Rules of the City of New York Title 34 §4-13 http://24.97.137.100/nyc/rcny/Title34_4-13.asp"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="New York, NY"/>
+    <tag k="tiger:name_base" v="34th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="10001"/>
+    <tag k="tiger:zip_right" v="10001"/>
+  </way>
+  <way id="464543615">
+    <nd ref="42439960"/>
+    <nd ref="42439955"/>
+    <nd ref="42439952"/>
+    <nd ref="42437654"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="7th Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="New York, NY"/>
+    <tag k="tiger:name_base" v="7th"/>
+    <tag k="tiger:name_base_1" v="7"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:name_type_1" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="10019"/>
+    <tag k="tiger:zip_right" v="10019"/>
+  </way>
+
+</osm>
